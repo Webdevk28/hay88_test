@@ -1,0 +1,276 @@
+@media (min-width: 320px) and (max-width: 480px)  { 
+    .down-item{
+        width: 10%;
+        position: fixed;
+        top: 35%;
+        right: 1%;
+        padding: 10px;
+        z-index: 28;
+    }
+    /* ======== top-scroll ======== */
+    .scroll-item{
+        width: 10%;
+        position: fixed;
+        top: 90%;
+        right: 4%;
+        z-index: 28;
+    }
+    
+    .top-img img{
+        width: 100%;
+        overflow: hidden;
+    }
+    .main{
+        width: 100%;
+    }
+    .main-content{
+        width: 100%;
+        padding: 0 10px;
+    }
+    /* link */
+    .link{
+        width: 100%;
+        position: relative;
+    }
+    .link-item{
+        width: 100% !important;
+        padding: 10;
+    }
+    .link-item img{
+        width: 100%;
+    }
+
+/*======== pro-bn =========*/
+    .pro-bn p{
+        font-size: 18px;
+        text-align: center;
+        line-height: 1.8;
+    }
+    .pro-bn span{
+        font-size: 25px;
+    }
+
+    /* ======== icon ======== */
+    .icon-item span{
+        color: white;
+        font-size: 15px;
+    }
+
+    /* ======== logo-item ======== */
+    .logo-box .logo-box-item{
+        display: flex;
+        justify-content: space-between;
+        gap: 5px;
+        margin: 1px 0; 
+    }
+    /* ======== logo-item ======== */
+    .link-item2{
+        width: 100%;
+    }
+    .link2 .link-sp span{
+        font-size: 18px;
+    }
+    /* ======== promote ======== */
+    .promote{
+        margin: 50px 0;
+    }
+    .promote-item{
+        font-size: 18px;
+    }
+    .promote-item .promote-sp{
+        font-size: 20px;
+        text-align: center;
+    }
+    .footer span{
+        display: block;
+        color: whitesmoke;
+        font-size: 15px;
+        margin: 20px;
+        text-align: center;
+    }
+
+}
+@media (min-width: 481px) and (max-width: 768px)  { 
+    .down-item{
+        width: 8%;
+        position: fixed;
+        top: 35%;
+        right: 1%;
+        padding: 10px;
+        z-index: 28;
+    }
+    /* ======== top-scroll ======== */
+    .scroll-item{
+        width: 8%;
+        position: fixed;
+        top: 90%;
+        right: 3%;
+        z-index: 28;
+    }
+    
+    .top-img img{
+        width: 100%;
+        overflow: hidden;
+    }
+    .main{
+        width: 100%;
+    }
+    .main-content{
+        width: 100%;
+        padding: 0 10px;
+    }
+    /* link */
+    .link{
+        width: 100%;
+        position: relative;
+    }
+    .link-item{
+        width: 100% !important;
+        padding: 10;
+    }
+    .link-item img{
+        width: 100%;
+    }
+
+/*======== pro-bn =========*/
+    .pro-bn p{
+        font-size: 18px;
+        text-align: center;
+        line-height: 1.8;
+    }
+    .pro-bn span{
+        font-size: 25px;
+    }
+
+    /* ======== icon ======== */
+    .icon-item span{
+        color: white;
+        font-size: 15px;
+    }
+
+    /* ======== logo-item ======== */
+    .logo-box .logo-box-item{
+        display: flex;
+        justify-content: space-between;
+        gap: 5px;
+        margin: 1px 0; 
+    }
+    /* ======== logo-item ======== */
+    .link-item2{
+        width: 100%;
+    }
+    .link2 .link-sp span{
+        font-size: 18px;
+    }
+    /* ======== promote ======== */
+    .promote{
+        margin: 50px 0;
+    }
+    .promote-item{
+        font-size: 18px;
+    }
+    .promote-item .promote-sp{
+        font-size: 20px;
+        text-align: center;
+    }
+    .footer span{
+        display: block;
+        color: whitesmoke;
+        font-size: 15px;
+        margin: 20px;
+        text-align: center;
+    }
+
+}
+@media (min-width: 769px) and (max-width: 1024px)  { 
+    .down-item{
+        width: 8%;
+        position: fixed;
+        top: 35%;
+        right: 1%;
+        padding: 10px;
+        z-index: 28;
+    }
+    /* ======== top-scroll ======== */
+    .scroll-item{
+        width: 8%;
+        position: fixed;
+        top: 90%;
+        right: 3%;
+        z-index: 28;
+    }
+    
+    .top-img img{
+        width: 100%;
+        overflow: hidden;
+    }
+    .main{
+        width: 100%;
+    }
+    .main-content{
+        width: 100%;
+        padding: 0 10px;
+    }
+    /* link */
+    .link{
+        width: 100%;
+        position: relative;
+    }
+    .link-item{
+        width: 100% !important;
+        padding: 10;
+    }
+    .link-item img{
+        width: 100%;
+    }
+
+/*======== pro-bn =========*/
+    .pro-bn p{
+        font-size: 18px;
+        text-align: center;
+        line-height: 1.8;
+    }
+    .pro-bn span{
+        font-size: 25px;
+    }
+
+    /* ======== icon ======== */
+    .icon-item span{
+        color: white;
+        font-size: 15px;
+    }
+
+    /* ======== logo-item ======== */
+    .logo-box .logo-box-item{
+        display: flex;
+        justify-content: space-between;
+        gap: 5px;
+        margin: 1px 0; 
+    }
+    /* ======== logo-item ======== */
+    .link-item2{
+        width: 100%;
+    }
+    .link2 .link-sp span{
+        font-size: 18px;
+    }
+    /* ======== promote ======== */
+    .promote{
+        margin: 50px 0;
+    }
+    .promote-item{
+        font-size: 18px;
+    }
+    .promote-item .promote-sp{
+        font-size: 20px;
+        text-align: center;
+    }
+    .footer span{
+        display: block;
+        color: whitesmoke;
+        font-size: 15px;
+        margin: 20px;
+        text-align: center;
+    }
+
+}
